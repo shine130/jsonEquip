@@ -1,0 +1,12 @@
+ 武器属性: 
+ pName 名称
+ pInfo 武器描述
+ pBody 体质
+ spirit 根骨
+ attack	攻击
+ overcome  破防
+ huajing  化劲
+ hole 孔
+ quality 品质
+ score 装备分数
+ menpai 推荐门派

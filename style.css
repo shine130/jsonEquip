@@ -1,0 +1,11 @@
+ul,li{margin: 0; padding: 0; list-style: none;}
+p{margin: 0; padding: 0;}
+.box{border: 1px solid #458; background-color:rgb(19, 34, 33); width: 300px; min-height: 400px; color:#fff; padding: 20px; line-height: 24px;}
+.armlist{overflow: hidden; *zoom:1;}
+.optbar{font-weight: bold;}
+.opt{float: left; display: inline; color: #ffff00; background-color:rgb(19,34,33); margin:10px 10px 10px 0; padding: 8px;}
+.pName{color: rgb(241, 44, 241);}
+.attack,.overcome,.huajing{color: rgb(0, 200, 72);}
+.hole p{color: rgb(155, 155, 155);}
+.quality{color: #ffff00;}
+.score{color: #ff8000;}
