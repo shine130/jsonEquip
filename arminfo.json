@@ -1,0 +1,57 @@
+[
+{
+"pName":"傲视天下·幻紫流金剑",
+"pInfo":"近身武器",
+"pBody":"体质+<span class='val'>1063</span>",
+"spirit":"根骨+<span class='val'>301</span>",
+"attack":"阴性内攻攻击提高<span class='val'>1958</span>",
+"overcome":"阴性内攻破防等级提高<span class='val'>281</span>",
+"huajing":"化劲等级提高<span class='val'>241</span>",
+"hole":[
+		"<p>金/土镶嵌孔：根骨+?</p>",
+		"<p>木/火镶嵌孔：体质+?</p>",
+		"<p>土/火镶嵌孔：化劲等级提高?</p>",
+		"<p><只能镶嵌五彩石></p>"
+		],
+"quality":"品质等级<span class='val'>515</span>",
+"score":"装备分数<span class='val'>1112</span>",
+"menpai":"推荐门派:七秀(冰心诀)"
+},
+{
+"pName":"誉满天下·风鬟双剑",
+"pInfo":"近身武器",
+"pBody":"体质+<span class='val'>1145</span>",
+"spirit":"根骨+<span class='val'>325</span>",
+"attack":"阴性内攻攻击提高<span class='val'>2110</span>",
+"overcome":"阴性内攻破防等级提高<span class='val'>302</span>",
+"huajing":"化劲等级提高<span class='val'>259</span>",
+"hole":[
+		"<p>金/土镶嵌孔：根骨+?</p>",
+		"<p>木/火镶嵌孔：体质+?</p>",
+		"<p>土/火镶嵌孔：化劲等级提高?</p>",
+		"<p><只能镶嵌五彩石></p>"
+		],
+"quality":"品质等级<span class='val'>555</span>",
+"score":"装备分数<span class='val'>1119</span>",
+"menpai":"推荐门派:七秀(冰心诀)"
+},
+{
+"pName":"威震天下·掩妆双剑",
+"pInfo":"近身武器",
+"pBody":"体质+<span class='val'>1228</span>",
+"spirit":"根骨+<span class='val'>348</span>",
+"attack":"阴性内攻攻击提高<span class='val'>2262</span>",
+"overcome":"阴性内攻破防等级提高<span class='val'>324</span>",
+"huajing":"化劲等级提高<span class='val'>278</span>",
+"hole":[
+		"<p>金/土镶嵌孔：根骨+?</p>",
+		"<p>木/火镶嵌孔：体质+?</p>",
+		"<p>土/火镶嵌孔：化劲等级提高?</p>",
+		"<p><只能镶嵌五彩石></p>"
+		],
+"quality":"品质等级<span class='val'>595</span>",
+"score":"装备分数<span class='val'>1285</span>",
+"menpai":"推荐门派:七秀(冰心诀)"
+}
+]
+
