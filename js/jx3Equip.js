@@ -1,3 +1,8 @@
+/**
+* @author shine
+* @blog http://blog.ipsfan.com/
+* @version 0.1
+*/ 
 $(function(){
 	var ctnBox=$("#box"),
 		pName=ctnBox.find(".pName"),
