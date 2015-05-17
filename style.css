@@ -17,4 +17,5 @@ p{margin: 0; padding: 0;}
 .equBody{float: left; background-color: rgb(19,34,33); padding: 10px; width: 200px; margin-top: 25px; margin-right: 15px; color:#ffff00;}
 .equBody .info{ width: 80px; height: 80px;  float: left; display: inline; text-align: center; line-height: 80px; margin-right: 15px; margin-bottom: 10px; border: 1px solid red; color: red; position: relative;}
 .equBody .infoon{border: 1px solid rgb(0,200,72); color: #ffff00;}
-.equBody .box{position: absolute; top: -1px; right: 81px; text-align: left; z-index: 999;}
+.equBody .box{position: absolute; top: -1px; right: 81px; text-align: left; z-index: 999; display: none;}
+.equBody .info:hover .box{display: block;}
