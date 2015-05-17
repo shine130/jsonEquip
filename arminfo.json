@@ -1,5 +1,6 @@
 [
 {
+"p_id":"1",
 "pName":"傲视天下·幻紫流金剑",
 "pInfo":"近身武器",
 "pBody":"体质+<span class='val'>1063</span>",
@@ -18,6 +19,7 @@
 "menpai":"推荐门派:七秀(冰心诀)"
 },
 {
+"p_id":"2",
 "pName":"誉满天下·风鬟双剑",
 "pInfo":"近身武器",
 "pBody":"体质+<span class='val'>1145</span>",
@@ -36,6 +38,7 @@
 "menpai":"推荐门派:七秀(冰心诀)"
 },
 {
+"p_id":"3",
 "pName":"威震天下·掩妆双剑",
 "pInfo":"近身武器",
 "pBody":"体质+<span class='val'>1228</span>",
