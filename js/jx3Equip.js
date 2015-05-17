@@ -36,4 +36,11 @@ $(function(){
 
 		})
 	});
+
+	$("#armList .opt").bind("click",function(){
+		$(this).addClass("opton").siblings().removeClass("opton");
+		$("#armbox").addClass("infoon");
+	});
+
+
 });
